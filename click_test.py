@@ -10,7 +10,7 @@ try:
         time.sleep(0.3)
 except KeyboardInterrupt:
     print('111', '\n')
-#
+
 # a = 0.01
 # b = 0.3
 # c = 0.8
