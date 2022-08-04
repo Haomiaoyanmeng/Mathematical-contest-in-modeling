@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
-# some random data
+# some random dat
 x = np.random.randn(1000)
 y = np.random.randn(1000)
 
